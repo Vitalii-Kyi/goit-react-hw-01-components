@@ -7,9 +7,9 @@ export const Description = styled.div`
   padding-left: 4px;
   padding-right: 4px;
   background-color: #f8f8f8;
-  width: 272px;
+  width: 320px;
   margin: auto;
-  border: 1px solid #5b5b5b;
+  border: 1px solid #bcbcbc;
   border-radius: 4px;
   text-align: center;
   margin-bottom: 48px;
@@ -18,7 +18,6 @@ export const Description = styled.div`
 export const Avatar = styled.img`
   margin: auto;
   background-color: #d9ead3;
-  border: 1px solid #5b5b5b;
   border-radius: 50%;
   margin-bottom: 48px;
 `;

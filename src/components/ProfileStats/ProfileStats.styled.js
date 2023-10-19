@@ -15,7 +15,6 @@ export const ListStat = styled.li`
   flex-direction: column;
   width: calc(100% / 3);
   background-color: #93c47d;
-  border: 1px solid #5b5b5b;
   border-radius: 4px;
   border-bottom: 4px;
 `;

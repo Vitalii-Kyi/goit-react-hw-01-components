@@ -6,7 +6,7 @@ export const Profile = ({userInfo}) => {
   return (
     <Description>
       <div>
-        <Avatar src={userInfo.avatar} alt="user avatar" width="100" />
+        <Avatar src={userInfo.avatar} alt="user avatar" width="120" />
         <Name>{userInfo.username}</Name>
         <Tag>@{userInfo.tag}</Tag>
         <Place>{userInfo.location}</Place>
