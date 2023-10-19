@@ -32,6 +32,6 @@ export const Tag = styled.p`
 
 export const Place = styled.p`
   font-size: 16px;
-  font-weight: bold
+  font-weight: bold;
   margin-bottom: 12px;
 `;

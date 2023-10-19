@@ -25,6 +25,6 @@ export const Text = styled.span`
 `;
 
 export const Quantity = styled.span`
-font - size: 16px;
-font weight: bold;
+  font-size: 16px;
+  font-weight: bold;
 `;
