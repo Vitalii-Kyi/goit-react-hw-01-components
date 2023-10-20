@@ -4,8 +4,8 @@ export const Item = styled.div`
   display: flex;
   gap: 16px;
   align-items: center;
-  height: 70px;
-  padding-left: 15px;
+  height: 60px;
+  padding-left: 16px;
   background-color: #f8f8f8;
   border: 1px solid #bcbcbc;
   border-radius: 4px;
